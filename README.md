@@ -1,4 +1,4 @@
-# cryWS
+# An iOS application provider information of 200 coins from Webservice through RESTful APIs
 
 
 <p align="center">
